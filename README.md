@@ -1,5 +1,5 @@
 reinforce.py - the main code for the REINFORCE policy.
-#
+
 main.py - this file contains the hyperparameters given to reinforce. 
 In main.py, make a Reinforce object and train a policy using the train method. The policy will be saved to the PATH that you pass in with the hyperparameters. 
 If a policy exists at that path, use the load_policy method to load it.
